@@ -1,1 +1,1 @@
-Log: 2020-05-22 16:31:53 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2020-05-24 09:44:11 [feat(db): design normalized PostgreSQL schema and migration scripts]
