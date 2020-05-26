@@ -1,1 +1,1 @@
-Log: 2020-05-26 08:44:17 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2020-05-26 11:22:42 [feat(push): integrate Expo/Firebase push notification listeners]
