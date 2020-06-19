@@ -1,1 +1,1 @@
-Log: 2020-06-19 13:08:59 [feat(i18n): configure localization strings and language switcher]
+Log: 2020-06-19 13:03:20 [feat(middleware): add rate limiting and CORS security headers]
