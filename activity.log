@@ -1,1 +1,1 @@
-Log: 2020-08-19 08:31:42 [feat(i18n): configure localization strings and language switcher]
+Log: 2020-08-20 08:41:27 [perf(bundle): configure code-splitting and dynamic imports in Next.js]
