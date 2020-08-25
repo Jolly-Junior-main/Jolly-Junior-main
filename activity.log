@@ -1,1 +1,1 @@
-Log: 2020-08-25 17:28:40 [perf(cache): implement Redis caching layer for heavy database queries]
+Log: 2020-08-25 18:11:55 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
