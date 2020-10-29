@@ -1,1 +1,1 @@
-Log: 2020-10-29 15:22:03 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2020-10-29 16:14:42 [feat(db): design normalized PostgreSQL schema and migration scripts]
