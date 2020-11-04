@@ -1,1 +1,1 @@
-Log: 2020-11-03 21:42:29 [perf(render): optimize list virtualization and image caching]
+Log: 2020-11-04 08:25:18 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
