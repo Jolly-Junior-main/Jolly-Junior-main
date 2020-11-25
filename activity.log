@@ -1,1 +1,1 @@
-Log: 2020-11-25 12:06:35 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2020-11-25 13:39:41 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
