@@ -1,1 +1,1 @@
-Log: 2020-12-03 16:07:02 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2020-12-04 07:50:51 [feat(search): add instant debounced search with filter chips]
