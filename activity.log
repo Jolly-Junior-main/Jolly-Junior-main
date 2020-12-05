@@ -1,1 +1,1 @@
-Log: 2020-12-04 18:21:40 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2020-12-05 09:26:22 [feat(db): design normalized PostgreSQL schema and migration scripts]
