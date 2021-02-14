@@ -1,1 +1,1 @@
-Log: 2021-02-12 16:19:56 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2021-02-14 09:51:30 [perf(bundle): configure code-splitting and dynamic imports in Next.js]
