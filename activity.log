@@ -1,1 +1,1 @@
-Log: 2021-04-06 19:52:17 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2021-04-07 09:32:29 [feat(api): build RESTful endpoints with input schema validation]
