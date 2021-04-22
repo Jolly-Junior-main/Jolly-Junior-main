@@ -1,1 +1,1 @@
-Log: 2021-04-22 13:04:26 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2021-04-22 15:00:33 [fix(concurrency): add optimistic locking on balance transactions]
