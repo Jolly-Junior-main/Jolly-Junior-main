@@ -1,1 +1,1 @@
-Log: 2021-05-13 10:56:12 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
+Log: 2021-05-13 14:36:21 [fix(concurrency): add optimistic locking on balance transactions]
