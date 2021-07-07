@@ -1,1 +1,1 @@
-Log: 2021-07-06 17:12:31 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2021-07-07 09:50:45 [chore(lint): configure ESLint and Prettier code formatting rules]
