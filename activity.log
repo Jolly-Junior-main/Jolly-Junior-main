@@ -1,1 +1,1 @@
-Log: 2021-08-12 16:21:49 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2021-08-12 18:47:45 [chore(lint): configure ESLint and Prettier code formatting rules]
