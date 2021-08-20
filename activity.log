@@ -1,1 +1,1 @@
-Log: 2021-08-20 09:08:00 [feat(auth): implement JWT token rotation and session refresh]
+Log: 2021-08-20 13:10:00 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
