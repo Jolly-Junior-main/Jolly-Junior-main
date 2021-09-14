@@ -1,1 +1,1 @@
-Log: 2021-09-13 08:14:19 [feat(push): integrate Expo/Firebase push notification listeners]
+Log: 2021-09-14 07:58:35 [perf(sql): add composite indexes on tenant and timestamp columns]
