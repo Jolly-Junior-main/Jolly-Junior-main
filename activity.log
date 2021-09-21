@@ -1,1 +1,1 @@
-Log: 2021-09-21 12:07:59 [feat(i18n): configure localization strings and language switcher]
+Log: 2021-09-21 15:11:14 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
