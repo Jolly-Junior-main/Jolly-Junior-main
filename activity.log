@@ -1,1 +1,1 @@
-Log: 2021-09-27 12:26:34 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2021-09-27 16:49:21 [fix(concurrency): add optimistic locking on balance transactions]
