@@ -1,1 +1,1 @@
-Log: 2021-09-29 18:40:20 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2021-09-29 20:28:29 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
