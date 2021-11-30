@@ -1,1 +1,1 @@
-Log: 2021-11-30 15:17:14 [feat(push): integrate Expo/Firebase push notification listeners]
+Log: 2021-11-30 18:39:59 [feat(offline): configure local SQLite cache and sync queue]
