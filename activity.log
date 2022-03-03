@@ -1,1 +1,1 @@
-Log: 2022-03-02 19:19:22 [fix(forms): add client-side input validation and error boundary]
+Log: 2022-03-03 07:05:16 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
