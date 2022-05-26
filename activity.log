@@ -1,1 +1,1 @@
-Log: 2022-05-26 13:06:28 [feat(webhooks): handle third-party payment notification webhooks]
+Log: 2022-05-26 14:15:50 [perf(sql): add composite indexes on tenant and timestamp columns]
