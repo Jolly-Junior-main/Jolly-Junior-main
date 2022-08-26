@@ -1,1 +1,1 @@
-Log: 2022-08-26 11:02:04 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2022-08-26 13:27:15 [fix(concurrency): add optimistic locking on balance transactions]
