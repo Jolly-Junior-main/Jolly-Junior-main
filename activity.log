@@ -1,1 +1,1 @@
-Log: 2023-02-09 11:04:15 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2023-02-09 12:44:08 [feat(logging): add structured JSON logging with request correlation IDs]
