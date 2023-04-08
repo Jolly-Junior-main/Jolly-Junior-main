@@ -1,1 +1,1 @@
-Log: 2023-04-08 07:27:08 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
+Log: 2023-04-08 11:01:36 [perf(sql): add composite indexes on tenant and timestamp columns]
