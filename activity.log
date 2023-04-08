@@ -1,1 +1,1 @@
-Log: 2023-04-08 11:01:36 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2023-04-08 16:37:01 [fix(concurrency): add optimistic locking on balance transactions]
