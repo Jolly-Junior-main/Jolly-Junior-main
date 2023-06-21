@@ -1,1 +1,1 @@
-Log: 2023-06-20 17:51:56 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2023-06-21 09:19:12 [feat(logging): add structured JSON logging with request correlation IDs]
