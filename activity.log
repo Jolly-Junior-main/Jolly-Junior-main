@@ -1,1 +1,1 @@
-Log: 2023-07-25 17:35:16 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2023-07-27 08:14:59 [fix(forms): add client-side input validation and error boundary]
