@@ -1,1 +1,1 @@
-Log: 2023-08-16 11:52:40 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2023-08-16 14:59:26 [feat(offline): configure local SQLite cache and sync queue]
