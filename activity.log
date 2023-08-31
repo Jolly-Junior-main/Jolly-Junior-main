@@ -1,1 +1,1 @@
-Log: 2023-08-31 17:26:09 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2023-08-31 16:51:19 [perf(sql): add composite indexes on tenant and timestamp columns]
