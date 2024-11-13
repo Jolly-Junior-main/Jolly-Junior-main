@@ -1,1 +1,1 @@
-Log: 2024-11-13 09:46:15 [perf(render): optimize list virtualization and image caching]
+Log: 2024-11-13 13:33:05 [refactor(components): extract reusable Modal and Dropdown primitives]
