@@ -1,1 +1,1 @@
-Log: 2024-11-15 07:10:03 [perf(render): optimize list virtualization and image caching]
+Log: 2024-11-16 08:00:56 [perf(sql): add composite indexes on tenant and timestamp columns]
