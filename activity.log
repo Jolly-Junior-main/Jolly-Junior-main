@@ -1,1 +1,1 @@
-Log: 2025-01-03 15:59:53 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2025-01-06 08:14:05 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
