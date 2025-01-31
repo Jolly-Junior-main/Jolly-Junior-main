@@ -1,1 +1,1 @@
-Log: 2025-01-30 07:35:02 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
+Log: 2025-01-31 08:09:17 [feat(middleware): add rate limiting and CORS security headers]
