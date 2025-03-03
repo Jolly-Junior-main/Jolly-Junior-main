@@ -1,1 +1,1 @@
-Log: 2025-03-03 19:09:51 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2025-03-03 21:31:53 [fix(forms): add client-side input validation and error boundary]
