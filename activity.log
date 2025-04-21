@@ -1,1 +1,1 @@
-Log: 2025-04-21 11:40:22 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
+Log: 2025-04-21 12:09:10 [perf(sql): add composite indexes on tenant and timestamp columns]
