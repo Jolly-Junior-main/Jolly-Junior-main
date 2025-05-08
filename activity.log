@@ -1,1 +1,1 @@
-Log: 2025-05-08 11:51:29 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
+Log: 2025-05-08 13:38:59 [feat(logging): add structured JSON logging with request correlation IDs]
