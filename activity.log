@@ -1,1 +1,1 @@
-Log: 2025-05-29 13:43:29 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
+Log: 2025-05-29 15:37:15 [fix(forms): add client-side input validation and error boundary]
