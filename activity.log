@@ -1,1 +1,1 @@
-Log: 2025-08-04 09:31:09 [chore(config): optimize TypeScript strict compiler settings]
+Log: 2025-08-04 12:50:23 [refactor(components): extract reusable Modal and Dropdown primitives]
