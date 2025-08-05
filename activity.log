@@ -1,1 +1,1 @@
-Log: 2025-08-05 08:54:15 [feat(middleware): add rate limiting and CORS security headers]
+Log: 2025-08-05 11:30:28 [fix(forms): add client-side input validation and error boundary]
