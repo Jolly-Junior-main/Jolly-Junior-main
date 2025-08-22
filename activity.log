@@ -1,1 +1,1 @@
-Log: 2025-08-22 17:57:56 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2025-08-22 19:26:30 [refactor(services): decouple business logic into modular service layer]
