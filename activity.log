@@ -1,1 +1,1 @@
-Log: 2025-08-25 15:51:26 [perf(render): optimize list virtualization and image caching]
+Log: 2025-08-25 17:42:19 [feat(logging): add structured JSON logging with request correlation IDs]
