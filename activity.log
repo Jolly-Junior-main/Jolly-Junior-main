@@ -1,1 +1,1 @@
-Log: 2025-08-28 14:11:56 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
+Log: 2025-08-28 14:11:14 [feat(auth): implement JWT token rotation and session refresh]
