@@ -1,1 +1,1 @@
-Log: 2025-09-16 17:25:50 [refactor(components): extract reusable Modal and Dropdown primitives]
+Log: 2025-09-16 20:17:21 [perf(sql): add composite indexes on tenant and timestamp columns]
