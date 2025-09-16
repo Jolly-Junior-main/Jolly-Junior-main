@@ -1,1 +1,1 @@
-Log: 2025-09-15 19:41:11 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2025-09-16 08:14:22 [feat(logging): add structured JSON logging with request correlation IDs]
