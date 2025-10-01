@@ -1,1 +1,1 @@
-Log: 2025-10-01 14:09:44 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2025-10-01 14:53:17 [feat(middleware): add rate limiting and CORS security headers]
