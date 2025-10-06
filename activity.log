@@ -1,1 +1,1 @@
-Log: 2025-10-06 16:48:48 [chore(docker): configure multi-stage production Dockerfile]
+Log: 2025-10-06 16:51:09 [perf(sql): add composite indexes on tenant and timestamp columns]
