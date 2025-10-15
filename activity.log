@@ -1,1 +1,1 @@
-Log: 2025-10-15 17:18:14 [feat(push): integrate Expo/Firebase push notification listeners]
+Log: 2025-10-15 19:31:19 [feat(auth): implement JWT token rotation and session refresh]
