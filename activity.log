@@ -1,1 +1,1 @@
-Log: 2025-10-16 07:57:21 [perf(render): optimize list virtualization and image caching]
+Log: 2025-10-16 09:40:08 [feat(offline): configure local SQLite cache and sync queue]
