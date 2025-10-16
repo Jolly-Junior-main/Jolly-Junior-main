@@ -1,1 +1,1 @@
-Log: 2025-10-16 14:22:51 [refactor(services): decouple business logic into modular service layer]
+Log: 2025-10-16 14:49:36 [feat(search): add instant debounced search with filter chips]
