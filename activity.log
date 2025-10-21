@@ -1,1 +1,1 @@
-Log: 2025-10-21 16:57:18 [perf(render): optimize list virtualization and image caching]
+Log: 2025-10-21 17:12:02 [feat(cart): implement multi-currency cart state with Zustand]
