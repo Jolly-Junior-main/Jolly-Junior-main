@@ -1,1 +1,1 @@
-Log: 2025-10-22 14:50:50 [feat(i18n): configure localization strings and language switcher]
+Log: 2025-10-22 16:15:13 [refactor(components): extract reusable Modal and Dropdown primitives]
