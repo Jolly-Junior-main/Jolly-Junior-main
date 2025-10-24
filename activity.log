@@ -1,1 +1,1 @@
-Log: 2025-10-24 11:08:53 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2025-10-24 14:03:01 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
