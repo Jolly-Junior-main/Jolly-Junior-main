@@ -1,1 +1,1 @@
-Log: 2025-10-28 10:04:53 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2025-10-28 13:11:36 [feat(api): build RESTful endpoints with input schema validation]
