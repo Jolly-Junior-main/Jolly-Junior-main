@@ -1,1 +1,1 @@
-Log: 2025-11-08 16:07:59 [feat(mobile): integrate biometric face/fingerprint authentication]
+Log: 2025-11-08 16:45:14 [refactor(components): extract reusable Modal and Dropdown primitives]
