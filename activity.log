@@ -1,1 +1,1 @@
-Log: 2025-11-09 15:38:57 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2025-11-09 18:03:05 [feat(db): design normalized PostgreSQL schema and migration scripts]
