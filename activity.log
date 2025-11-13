@@ -1,1 +1,1 @@
-Log: 2025-11-13 12:27:44 [chore(config): optimize TypeScript strict compiler settings]
+Log: 2025-11-13 14:16:03 [perf(sql): add composite indexes on tenant and timestamp columns]
