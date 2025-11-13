@@ -1,1 +1,1 @@
-Log: 2025-11-13 19:08:10 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2025-11-13 20:53:41 [feat(middleware): add rate limiting and CORS security headers]
