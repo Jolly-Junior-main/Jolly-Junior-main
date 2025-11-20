@@ -1,1 +1,1 @@
-Log: 2025-11-20 20:42:50 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2025-11-20 19:32:25 [feat(middleware): add rate limiting and CORS security headers]
