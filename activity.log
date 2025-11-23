@@ -1,1 +1,1 @@
-Log: 2025-11-22 19:41:24 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2025-11-23 09:12:49 [feat(logging): add structured JSON logging with request correlation IDs]
