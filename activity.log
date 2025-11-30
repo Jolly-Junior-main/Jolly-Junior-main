@@ -1,1 +1,1 @@
-Log: 2025-11-30 16:31:46 [refactor(services): decouple business logic into modular service layer]
+Log: 2025-11-30 17:29:44 [feat(api): build RESTful endpoints with input schema validation]
