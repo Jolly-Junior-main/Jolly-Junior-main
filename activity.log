@@ -1,1 +1,1 @@
-Log: 2025-12-02 19:24:46 [feat(monitoring): add healthcheck endpoint and uptime telemetry]
+Log: 2025-12-02 18:33:11 [feat(logging): add structured JSON logging with request correlation IDs]
