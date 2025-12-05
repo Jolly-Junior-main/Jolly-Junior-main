@@ -1,1 +1,1 @@
-Log: 2025-12-05 20:03:07 [docs(architecture): add system architecture and ERD diagrams]
+Log: 2025-12-05 21:21:21 [perf(sql): add composite indexes on tenant and timestamp columns]
