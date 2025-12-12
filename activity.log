@@ -1,1 +1,1 @@
-Log: 2025-12-12 15:56:48 [chore(config): optimize TypeScript strict compiler settings]
+Log: 2025-12-12 15:33:39 [feat(cart): implement multi-currency cart state with Zustand]
