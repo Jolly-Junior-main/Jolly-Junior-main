@@ -1,1 +1,1 @@
-Log: 2025-12-17 15:36:03 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2025-12-17 17:54:22 [feat(auth): implement JWT token rotation and session refresh]
