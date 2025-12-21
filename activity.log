@@ -1,1 +1,1 @@
-Log: 2025-12-21 20:52:31 [docs(architecture): add system architecture and ERD diagrams]
+Log: 2025-12-21 19:58:45 [fix(concurrency): add optimistic locking on balance transactions]
