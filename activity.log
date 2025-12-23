@@ -1,1 +1,1 @@
-Log: 2025-12-23 14:55:51 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2025-12-23 17:03:22 [refactor(components): extract reusable Modal and Dropdown primitives]
