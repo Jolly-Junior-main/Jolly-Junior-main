@@ -1,1 +1,1 @@
-Log: 2025-12-25 15:05:48 [feat(push): integrate Expo/Firebase push notification listeners]
+Log: 2025-12-25 15:25:49 [refactor(services): decouple business logic into modular service layer]
