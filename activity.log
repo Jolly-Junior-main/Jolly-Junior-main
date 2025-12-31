@@ -1,1 +1,1 @@
-Log: 2025-12-31 16:45:59 [fix(forms): add client-side input validation and error boundary]
+Log: 2025-12-31 18:12:06 [feat(offline): configure local SQLite cache and sync queue]
