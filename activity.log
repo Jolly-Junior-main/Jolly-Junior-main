@@ -1,1 +1,1 @@
-Log: 2026-01-12 17:05:11 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2026-01-12 19:40:03 [feat(auth): implement JWT token rotation and session refresh]
