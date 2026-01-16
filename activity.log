@@ -1,1 +1,1 @@
-Log: 2026-01-16 20:47:41 [docs(architecture): add system architecture and ERD diagrams]
+Log: 2026-01-16 20:04:26 [feat(cart): implement multi-currency cart state with Zustand]
