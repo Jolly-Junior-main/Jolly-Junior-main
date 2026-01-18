@@ -1,1 +1,1 @@
-Log: 2026-01-18 12:58:17 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2026-01-18 12:57:04 [feat(logging): add structured JSON logging with request correlation IDs]
