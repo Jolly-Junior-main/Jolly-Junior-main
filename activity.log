@@ -1,1 +1,1 @@
-Log: 2026-01-27 09:51:00 [feat(middleware): add rate limiting and CORS security headers]
+Log: 2026-01-27 12:57:00 [refactor(components): extract reusable Modal and Dropdown primitives]
