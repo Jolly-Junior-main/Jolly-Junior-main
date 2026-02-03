@@ -1,1 +1,1 @@
-Log: 2026-02-03 14:34:16 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2026-02-03 15:29:14 [refactor(components): extract reusable Modal and Dropdown primitives]
