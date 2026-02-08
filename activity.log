@@ -1,1 +1,1 @@
-Log: 2026-02-08 17:56:15 [perf(render): optimize list virtualization and image caching]
+Log: 2026-02-08 20:47:41 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
