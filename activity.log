@@ -1,1 +1,1 @@
-Log: 2026-02-23 09:39:02 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2026-02-23 12:16:07 [feat(monitoring): add healthcheck endpoint and uptime telemetry]
