@@ -1,1 +1,1 @@
-Log: 2026-02-24 08:10:22 [refactor(components): extract reusable Modal and Dropdown primitives]
+Log: 2026-02-24 10:09:27 [fix(forms): add client-side input validation and error boundary]
