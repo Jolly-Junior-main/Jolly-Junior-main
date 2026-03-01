@@ -1,1 +1,1 @@
-Log: 2026-03-01 07:42:30 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2026-03-01 09:16:26 [feat(auth): implement JWT token rotation and session refresh]
