@@ -1,1 +1,1 @@
-Log: 2026-03-02 10:53:17 [feat(theme): add dark mode persistent theme provider]
+Log: 2026-03-02 14:53:54 [perf(sql): add composite indexes on tenant and timestamp columns]
