@@ -1,1 +1,1 @@
-Log: 2026-03-09 11:22:34 [feat(logging): add structured JSON logging with request correlation IDs]
+Log: 2026-03-09 14:13:51 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
