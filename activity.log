@@ -1,1 +1,1 @@
-Log: 2026-03-11 19:02:02 [feat(search): add instant debounced search with filter chips]
+Log: 2026-03-12 07:49:03 [perf(render): optimize list virtualization and image caching]
