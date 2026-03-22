@@ -1,1 +1,1 @@
-Log: 2026-03-22 18:38:00 [refactor(components): extract reusable Modal and Dropdown primitives]
+Log: 2026-03-22 21:21:41 [refactor(services): decouple business logic into modular service layer]
