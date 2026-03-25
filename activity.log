@@ -1,1 +1,1 @@
-Log: 2026-03-24 20:03:50 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2026-03-25 07:59:12 [feat(cart): implement multi-currency cart state with Zustand]
