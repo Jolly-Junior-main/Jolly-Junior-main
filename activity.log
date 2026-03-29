@@ -1,1 +1,1 @@
-Log: 2026-03-29 12:53:56 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2026-03-29 14:16:15 [perf(sql): add composite indexes on tenant and timestamp columns]
