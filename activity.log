@@ -1,1 +1,1 @@
-Log: 2026-04-02 16:45:38 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2026-04-02 18:38:05 [perf(sql): add composite indexes on tenant and timestamp columns]
