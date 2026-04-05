@@ -1,1 +1,1 @@
-Log: 2026-04-05 07:09:24 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2026-04-05 08:56:24 [perf(render): optimize list virtualization and image caching]
