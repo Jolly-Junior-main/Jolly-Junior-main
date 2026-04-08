@@ -1,1 +1,1 @@
-Log: 2026-04-08 14:01:36 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2026-04-08 16:39:48 [perf(sql): add composite indexes on tenant and timestamp columns]
