@@ -1,1 +1,1 @@
-Log: 2026-04-09 10:29:54 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2026-04-09 13:33:01 [feat(cart): implement multi-currency cart state with Zustand]
