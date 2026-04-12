@@ -1,1 +1,1 @@
-Log: 2026-04-12 14:05:44 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
+Log: 2026-04-12 16:00:44 [feat(cart): implement multi-currency cart state with Zustand]
