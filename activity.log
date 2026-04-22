@@ -1,1 +1,1 @@
-Log: 2026-04-22 14:34:50 [docs(architecture): add system architecture and ERD diagrams]
+Log: 2026-04-22 15:18:27 [feat(middleware): add rate limiting and CORS security headers]
