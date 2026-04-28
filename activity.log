@@ -1,1 +1,1 @@
-Log: 2026-04-28 11:26:31 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2026-04-28 12:13:49 [fix(keyboard): resolve iOS keyboard overlap on text inputs]
