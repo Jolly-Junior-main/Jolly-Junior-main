@@ -1,1 +1,1 @@
-Log: 2026-05-01 16:50:23 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2026-05-01 17:18:24 [feat(offline): configure local SQLite cache and sync queue]
