@@ -1,1 +1,1 @@
-Log: 2026-05-09 16:39:49 [refactor(components): extract reusable Modal and Dropdown primitives]
+Log: 2026-05-09 17:13:18 [feat(cart): implement multi-currency cart state with Zustand]
