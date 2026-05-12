@@ -1,1 +1,1 @@
-Log: 2026-05-11 20:58:40 [feat(navigation): configure deep linking routes for app sharing]
+Log: 2026-05-12 08:47:21 [perf(sql): add composite indexes on tenant and timestamp columns]
