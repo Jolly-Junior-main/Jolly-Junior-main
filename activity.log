@@ -1,1 +1,1 @@
-Log: 2026-05-12 12:19:57 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2026-05-12 14:04:00 [refactor(components): extract reusable Modal and Dropdown primitives]
