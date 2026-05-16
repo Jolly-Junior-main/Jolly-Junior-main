@@ -1,1 +1,1 @@
-Log: 2026-05-16 09:31:35 [feat(offline): configure local SQLite cache and sync queue]
+Log: 2026-05-16 12:19:25 [fix(concurrency): add optimistic locking on balance transactions]
