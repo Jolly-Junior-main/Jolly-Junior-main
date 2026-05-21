@@ -1,1 +1,1 @@
-Log: 2026-05-21 16:49:02 [feat(auth): implement JWT token rotation and session refresh]
+Log: 2026-05-21 18:25:12 [feat(logging): add structured JSON logging with request correlation IDs]
