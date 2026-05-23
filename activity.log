@@ -1,1 +1,1 @@
-Log: 2026-05-23 17:11:17 [feat(push): integrate Expo/Firebase push notification listeners]
+Log: 2026-05-23 18:14:23 [feat(logging): add structured JSON logging with request correlation IDs]
