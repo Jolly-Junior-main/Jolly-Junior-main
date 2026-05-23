@@ -1,1 +1,1 @@
-Log: 2026-05-22 21:32:29 [perf(sql): add composite indexes on tenant and timestamp columns]
+Log: 2026-05-23 09:54:01 [refactor(services): decouple business logic into modular service layer]
