@@ -1,1 +1,1 @@
-Log: 2026-05-23 10:31:28 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2026-05-23 10:41:56 [perf(render): optimize list virtualization and image caching]
