@@ -1,1 +1,1 @@
-Log: 2026-05-28 11:48:11 [feat(theme): add dark mode persistent theme provider]
+Log: 2026-05-28 12:55:22 [perf(render): optimize list virtualization and image caching]
