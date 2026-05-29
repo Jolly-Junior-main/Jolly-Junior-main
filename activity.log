@@ -1,1 +1,1 @@
-Log: 2026-05-29 12:40:26 [feat(auth): implement JWT token rotation and session refresh]
+Log: 2026-05-29 15:44:10 [fix(forms): add client-side input validation and error boundary]
