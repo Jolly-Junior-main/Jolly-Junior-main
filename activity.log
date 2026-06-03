@@ -1,1 +1,1 @@
-Log: 2026-06-03 16:49:52 [feat(export): add streaming CSV and PDF report export endpoints]
+Log: 2026-06-03 15:07:09 [feat(api): build RESTful endpoints with input schema validation]
