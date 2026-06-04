@@ -1,1 +1,1 @@
-Log: 2026-06-04 11:15:11 [refactor(services): decouple business logic into modular service layer]
+Log: 2026-06-04 13:57:58 [perf(render): optimize list virtualization and image caching]
