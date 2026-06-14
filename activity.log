@@ -1,1 +1,1 @@
-Log: 2026-06-14 07:47:55 [feat(db): design normalized PostgreSQL schema and migration scripts]
+Log: 2026-06-14 09:57:18 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
