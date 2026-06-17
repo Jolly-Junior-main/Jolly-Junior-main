@@ -1,1 +1,1 @@
-Log: 2026-06-17 15:09:17 [feat(i18n): configure localization strings and language switcher]
+Log: 2026-06-17 19:36:01 [perf(render): optimize list virtualization and image caching]
