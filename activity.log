@@ -1,1 +1,1 @@
-Log: 2026-06-24 16:33:10 [docs(architecture): add system architecture and ERD diagrams]
+Log: 2026-06-24 16:35:16 [feat(db): design normalized PostgreSQL schema and migration scripts]
