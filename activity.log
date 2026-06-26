@@ -1,1 +1,1 @@
-Log: 2026-06-26 08:25:55 [chore(deps): upgrade core dependencies and fix security vulnerabilities]
+Log: 2026-06-26 09:25:14 [feat(offline): configure local SQLite cache and sync queue]
