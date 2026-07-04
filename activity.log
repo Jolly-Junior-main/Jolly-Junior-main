@@ -1,1 +1,1 @@
-Log: 2026-07-04 12:34:57 [refactor(services): decouple business logic into modular service layer]
+Log: 2026-07-04 13:37:43 [feat(upload): configure S3/Cloud Storage presigned URL image uploads]
