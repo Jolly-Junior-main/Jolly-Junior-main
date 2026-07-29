@@ -1,1 +1,1 @@
-Log: 2026-07-28 19:57:48 [feat(logging): add structured JSON logging with request correlation IDs]
+Log: 2026-07-29 09:26:13 [refactor(components): extract reusable Modal and Dropdown primitives]
