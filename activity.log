@@ -1,1 +1,1 @@
-Log: 2026-07-31 16:17:50 [feat(auth): implement JWT token rotation and session refresh]
+Log: 2026-07-31 18:19:25 [refactor(components): extract reusable Modal and Dropdown primitives]
