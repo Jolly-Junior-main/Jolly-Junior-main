@@ -1,1 +1,1 @@
-Log: 2026-08-12 10:09:10 [feat(monitoring): add healthcheck endpoint and uptime telemetry]
+Log: 2026-08-12 11:25:48 [perf(sql): add composite indexes on tenant and timestamp columns]
