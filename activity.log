@@ -1,1 +1,1 @@
-Log: 2026-08-12 20:27:36 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2026-08-12 19:39:35 [chore(docker): configure multi-stage production Dockerfile]
