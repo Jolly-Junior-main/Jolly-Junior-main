@@ -1,1 +1,1 @@
-Log: 2026-08-14 14:45:11 [feat(search): add instant debounced search with filter chips]
+Log: 2026-08-14 14:16:46 [feat(middleware): add rate limiting and CORS security headers]
