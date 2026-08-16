@@ -1,1 +1,1 @@
-Log: 2026-08-16 15:35:06 [feat(webhooks): handle third-party payment notification webhooks]
+Log: 2026-08-16 16:15:59 [feat(logging): add structured JSON logging with request correlation IDs]
