@@ -1,1 +1,1 @@
-Log: 2026-08-21 09:05:20 [feat(screens): build animated onboarding walkthrough carousel]
+Log: 2026-08-21 11:17:25 [perf(render): optimize list virtualization and image caching]
