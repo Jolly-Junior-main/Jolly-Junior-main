@@ -1,1 +1,1 @@
-Log: 2026-08-23 11:41:11 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2026-08-23 11:26:11 [feat(middleware): add rate limiting and CORS security headers]
