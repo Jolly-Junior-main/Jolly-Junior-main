@@ -1,1 +1,1 @@
-Log: 2026-08-28 15:14:42 [refactor(services): decouple business logic into modular service layer]
+Log: 2026-08-28 16:12:40 [feat(logging): add structured JSON logging with request correlation IDs]
