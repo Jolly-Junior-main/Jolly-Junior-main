@@ -1,1 +1,1 @@
-Log: 2026-08-29 11:38:31 [feat(auth): implement JWT token rotation and session refresh]
+Log: 2026-08-29 13:00:40 [feat(offline): configure local SQLite cache and sync queue]
