@@ -1,1 +1,1 @@
-Log: 2026-08-31 18:53:14 [refactor(services): decouple business logic into modular service layer]
+Log: 2026-08-31 19:36:32 [fix(concurrency): add optimistic locking on balance transactions]
