@@ -1,1 +1,1 @@
-Log: 2026-08-31 19:36:32 [fix(concurrency): add optimistic locking on balance transactions]
+Log: 2026-09-01 09:13:19 [feat(cart): implement multi-currency cart state with Zustand]
