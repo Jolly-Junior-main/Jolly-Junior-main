@@ -1,1 +1,1 @@
-Log: 2026-09-17 13:37:57 [feat(cart): implement multi-currency cart state with Zustand]
+Log: 2026-09-17 12:32:42 [refactor(services): decouple business logic into modular service layer]
